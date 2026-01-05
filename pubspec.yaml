@@ -1,0 +1,10 @@
+name: chess_controller
+version: 0.8.1
+description: A powerful and flexible chess engine for Dart, providing a comprehensive API for chess logic, move generation, FEN/PGN parsing, and game state management.
+dev_dependencies:
+  benchmark_harness: ^2.0.0
+  test: ^1.17.8
+  pedantic: ^1.11.0
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+

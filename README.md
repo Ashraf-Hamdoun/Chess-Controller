@@ -1,5 +1,9 @@
 # chess_controller
 
+[![pub package](https://img.shields.io/pub/v/chess_controller.svg)](https://pub.dev/packages/chess_controller)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stability: Beta](https://img.shields.io/badge/Stability-Beta-blue.svg)](https://github.com/Ashraf-Hamdoun/Chess-Controller)
+
 A powerful and flexible chess engine for Dart. It provides a comprehensive API for chess logic, including move generation, validation, FEN/PGN parsing, and game state management.
 
 This library is a Dart port of the popular chess.js library.
